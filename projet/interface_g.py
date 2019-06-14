@@ -432,7 +432,7 @@ class ThrATT(threading.Thread):
 
 
 if __name__ == '__main__':
-    t = Interface_mainmenu()
+    t = Interface_login()
     t.mainloop()
 
 
